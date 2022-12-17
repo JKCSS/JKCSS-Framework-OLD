@@ -3,7 +3,8 @@ JK CSS
 
 # Developers
  
- <b>JehanKandy</b>
+ <b>JehanKandy (Owner)</b>
+  - https://github.com/JehanKandy
 
 
 # Copyright and license
