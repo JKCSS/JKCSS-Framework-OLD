@@ -3,4 +3,4 @@ JK CSS
 
 # Copyright and license
 
-The JKCSS Project released under the [MIT License](https://github.com/JKCSS/JKCSS-Framework/blob/main/LICENSE)
+Copyright 2021–2022 [JehanKandy](https://github.com/JehanKandy). The JKCSS Project released under the [MIT License](https://github.com/JKCSS/JKCSS-Framework/blob/main/LICENSE)
