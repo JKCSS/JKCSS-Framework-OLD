@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto&family=Source+Sans+Pro&display=swap');
+.jk-green-btn {
+    background-color: rgb(15, 187, 15);
+    padding: 10px 20px 10px 20px;
+    border: none;
+    color: white;
+    border-radius: 2px;
+    transition: 0.5s;
+}
+
+.jk-green-btn:hover {
+    background-color: rgb(14, 165, 14);
+    cursor: pointer;
+}
