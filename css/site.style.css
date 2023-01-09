@@ -15,7 +15,6 @@
     height: 50px;
     background-color: #8a00c2;
     padding: 22px 0 0 0;
-    position: absolute;
     color: white;
     font-family: 'Sofia Sans', sans-serif;
 }
@@ -47,3 +46,45 @@
     background-color: white;
     cursor: pointer;
 }
+.home-content{
+    color: black;
+    font-size: 110px;
+    margin-top: 100px;
+}
+
+
+/* 
+    ***************************************************************************************
+
+                             commen laptop screen and small screens
+
+                                            769px - 1400px
+
+    ***************************************************************************************
+*/
+
+@media only screen and (min-device-width: 821px) and (max-device-width: 1400px) {}
+
+/* 
+    ***************************************************************************************
+
+                                        iPads, Tablets
+
+                                        481px — 768px
+
+    ***************************************************************************************
+*/
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 820px) {}
+
+/* 
+    ***************************************************************************************
+
+                                     commen mobile screen
+
+                                            320x480
+
+    ***************************************************************************************
+*/
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {}
