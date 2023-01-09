@@ -1,7 +1,7 @@
 <h1 align="center"> JKCSS-Framework </h1>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/111488170?s=200&v=4"></p>
 
-<p align="center"></p>
+<p align="center">The JKCSS is a CSS Framework</p>
 
 # Developers
  
