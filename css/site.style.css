@@ -1,7 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&family=Sofia+Sans&family=Source+Sans+Pro&display=swap');
-
-/*
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@500&family=Roboto:ital@1&family=Sofia+Sans&family=Source+Sans+Pro&display=swap');/*
     use fonts
+    font-family: 'Catamaran', sans-serif;
     font-family: 'Roboto', sans-serif;
     font-family: 'Sofia Sans', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
@@ -9,6 +8,7 @@
 
 *{
     margin: 0;
+
 }
 .nav-bar{
     width: 100%;
@@ -54,9 +54,24 @@
     font-size: 35px;
     font-family: 'Sofia Sans', sans-serif;
 }
+.home-content .body{
+    margin: 20px 0 20px 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.code-space{
+    background-color: rgb(231, 231, 231);
+    border-radius: 5px;
+    padding: 20px 0 30px 15px;
+    margin-top: 25px;
+    font-family: 'Catamaran', sans-serif;
+}
+
 hr{
     border: 0.5px solid rgb(236, 236, 236);
     border-radius: 20%;
+}
+a{
+    color: rgb(0, 88, 204);
 }
 
 
@@ -71,7 +86,11 @@ hr{
     ***************************************************************************************
 */
 
-@media only screen and (min-device-width: 821px) and (max-device-width: 1400px) {}
+@media only screen and (min-device-width: 821px) and (max-device-width: 1400px) {
+    .box-container{
+        margin: 0 200px 0 200px;
+    }    
+}
 
 /* 
     ***************************************************************************************
