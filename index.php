@@ -15,11 +15,11 @@
             The Documentations of this CSS Framework, Can found in <a href="https://github.com/JKCSS/JKCSS-Framework" target="_blank">Github</a>
 
             <div class="code-space">
-             <!DOCTYPE html>
                 <span style="color: blue;">&lt;!DOCTYPE html&gt;</span><br>
                 <span style="color: brown;">&lt;html <span style="color: red;">lang<span style="color: blue;">="en"</span></span>&gt</span><br>
-                
-
+                <span style="color: brown;">&lt;head&gt;</span><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:brown">&lt;meta <span style="color:red;">charset<span style="color: blue;">="UTF-8"</span></span>&gt;</span><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: brown;">&lt;meta <span style="color:red;">http-equiv <span style="color: blue;">="X-UA-Compatible"</span> content <span style="color: blue;">="IE=edge"</span></span>&gt;</span>
             </div>
         </div>
     </div>
