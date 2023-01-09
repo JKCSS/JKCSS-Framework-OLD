@@ -50,6 +50,11 @@
                     </div>
                 </div>
             </div>
+            <hr>
+
+            <div class="development-team">
+                <div class="title">Development Team</div>
+            </div>
         </div>
     </div>
 </div>
