@@ -22,6 +22,8 @@
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:brown;">&lt;meta <span style="color:red;">http-equiv<span style="color: blue;">="X-UA-Compatible"</span> content<span style="color: blue;">="IE=edge"</span></span>&gt;</span><br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:brown;">&lt;meta <span style="color: red;">name<span style="color: blue;">="viewport"</span> content<span style="color: blue;">="width=device-width, initial-scale=1.0"</span></span>&gt;</span><br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:brown;">&lt;title&gt;<span style="color: black;">Document</span>&lt;/title&gt;</span><br>
+                <br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:gray">&lt;!-- JKCSS style link --&gt;</span><br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:brown;">&lt;link <span style="color: red;">rel<span style="color: blue;">="stylesheet"</span> href<span style="color: blue;">="https://drive.google.com/uc?export=download&id=1zU-S3-QWFxOF6OKytqqdo7kSZQFha05J"</span></span>&gt;</span><br>
                 &nbsp;&nbsp;&nbsp;<span style="color: brown;">&lt;/head&gt;</span><br><br>
                 &nbsp;&nbsp;&nbsp;<span style="color: brown;">&lt;body&gt;</span><br>
