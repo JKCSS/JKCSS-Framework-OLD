@@ -40,4 +40,10 @@
     border: 1px solid white;
     color: white;
     border-radius: 2px;
+    transition: 0.5s;
+}
+.download-btn:hover{    
+    color: #8a00c2;
+    background-color: white;
+    cursor: pointer;
 }
