@@ -4,7 +4,8 @@ JK CSS
 # Developers
  
  <b>JehanKandy (Owner)</b>
-  - https://github.com/JehanKandy
+ 
+  - [JehanKandy](https://github.com/JehanKandy)
 
 
 # Copyright and license
