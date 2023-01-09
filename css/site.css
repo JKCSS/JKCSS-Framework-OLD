@@ -92,7 +92,13 @@ a{
 .index-img{
     width: 250px;
     border-radius: 10px;
-    margin-left: 450px;
+    margin-left: 465px;
+}
+.index-content .title{
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Sofia Sans', sans-serif;
+    font-size: 40px;
 }
 
 /* 
@@ -109,6 +115,11 @@ a{
     .box-container{
         margin: 0 200px 0 200px;
     }    
+    .index-img{
+        width: 250px;
+        border-radius: 10px;
+        margin-left: 360px;
+    }
 }
 
 /* 
