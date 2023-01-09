@@ -21,6 +21,7 @@
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:brown">&lt;meta <span style="color:red;">charset<span style="color: blue;">="UTF-8"</span></span>&gt;</span><br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:brown;">&lt;meta <span style="color:red;">http-equiv<span style="color: blue;">="X-UA-Compatible"</span> content<span style="color: blue;">="IE=edge"</span></span>&gt;</span><br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:brown;">&lt;meta <span style="color: red;">name<span style="color: blue;">="viewport"</span> content<span style="color: blue;">="width=device-width, initial-scale=1.0"</span></span>&gt;</span><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: brown;">&lt;title&gt;<span style="color: black;">Document</span>&lt;/title&gt;</span><br>
             </div>
         </div>
     </div>
