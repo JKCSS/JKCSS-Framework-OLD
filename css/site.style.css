@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&family=Sofia+Sans&family=Source+Sans+Pro&display=swap');
+
+/*
+    use fonts
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sofia Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+*/
+
+*{
+    margin: 0;
+}
+.nav-bar{
+    width: 100%;
+    height: 50px;
+    background-color: #8a00c2;
+    padding: 22px 0 0 0;
+    position: absolute;
+    color: white;
+    font-family: 'Sofia Sans', sans-serif;
+}
+.box-container{
+    margin: 0 250px 0 250px;
+}
+.nav-bar .title{
+    font-size: 25px;
+}
+.nav-bar .body .version{
+    text-align: right;
+    margin-top: -30px;
+    height: 20px;
+}
+.nav-bar .body .version .version-text{
+    padding-right: 10px;
+}
+.download-btn{
+    padding: 5px 10px 5px 10px;
+    font-size: 15px;
+    background: none;
+    border: 1px solid white;
+    color: white;
+    border-radius: 2px;
+}
