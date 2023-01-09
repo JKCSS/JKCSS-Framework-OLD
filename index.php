@@ -16,10 +16,11 @@
 
             <div class="code-space">
                 <span style="color: blue;">&lt;!DOCTYPE html&gt;</span><br>
-                <span style="color: brown;">&lt;html <span style="color: red;">lang<span style="color: blue;">="en"</span></span>&gt</span><br>
+                <span style="color: brown;">&lt;html <span style="color: red;">lang<span style="color: blue;">="en"</span></span>&gt;</span><br>
                 <span style="color: brown;">&lt;head&gt;</span><br>
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:brown">&lt;meta <span style="color:red;">charset<span style="color: blue;">="UTF-8"</span></span>&gt;</span><br>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: brown;">&lt;meta <span style="color:red;">http-equiv <span style="color: blue;">="X-UA-Compatible"</span> content <span style="color: blue;">="IE=edge"</span></span>&gt;</span>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:brown;">&lt;meta <span style="color:red;">http-equiv<span style="color: blue;">="X-UA-Compatible"</span> content<span style="color: blue;">="IE=edge"</span></span>&gt;</span><br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:brown;">&lt;meta <span style="color: red;">name<span style="color: blue;">="viewport"</span> content<span style="color: blue;">="width=device-width, initial-scale=1.0"</span></span>&gt;</span><br>
             </div>
         </div>
     </div>
