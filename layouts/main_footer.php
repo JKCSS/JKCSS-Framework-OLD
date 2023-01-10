@@ -26,7 +26,7 @@
                 <div class="body">
                     <ul>
                         <li><a href="">Home</a></li>
-                        <li><a href="">Docs</a></li>
+                        <li><a href="../intro.php">Docs</a></li>
                         <li><a href="">Examples</a></li>
                         <li><a href="">Templates</a></li>
                         <li><a href="">Get Start</a></li>
