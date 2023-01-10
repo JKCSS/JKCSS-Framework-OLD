@@ -197,7 +197,7 @@ a{
     font-size: 20px;
     text-align: center;
 }
-.fitem2 .body{
+.fitem2 .body, .fitem3 .body{
     text-align: left;    
     font-size: 15px;
     margin-top: 20px;
@@ -207,7 +207,12 @@ a{
 }
 .fitem2 .body ul a{
     color: white;
+    text-decoration: none;
 }
+.fitem2 .body ul li{
+    padding: 10px 0 10px 0;
+}
+.fitem3 .body 
 /* 
     ***************************************************************************************
 
