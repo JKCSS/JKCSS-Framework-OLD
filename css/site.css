@@ -197,7 +197,7 @@ a{
     font-size: 20px;
     text-align: center;
 }
-.fitem2 .body, .fitem3 .body{
+.fitem2 .body {
     text-align: left;    
     font-size: 15px;
     margin-top: 20px;
@@ -205,7 +205,10 @@ a{
 .fitem2 .body ul{
     list-style-type: none;
 }
-.fitem2 .body ul a{
+.fitem3 .body ul{
+    list-style-type: none;
+}
+.fitem2, .body ul a{
     color: white;
     text-decoration: none;
 }
@@ -215,7 +218,23 @@ a{
 .fitem3 .body{
     text-align: left;
     font-size: 15px;
-    margin-top: 15px;
+    margin-top: 30px;
+}
+.fitem3 .body ul a{
+    color: white;
+    text-decoration: none;
+}
+.fitem4 .body{
+    text-align: left;
+    font-size: 15px;
+    margin-top: 30px;
+}
+.fitem4 .body ul{
+    list-style-type: none;
+}
+.fitem4 .body ul a{
+    color: white;
+    text-decoration: none;
 }
 /* 
     ***************************************************************************************
