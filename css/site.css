@@ -74,6 +74,7 @@ hr{
 }
 a{
     color: rgb(0, 88, 204);
+    
 }
 .footer-page{
     font-size: 18px;
@@ -159,6 +160,42 @@ a{
     padding: 45 45 45 45;
     margin-top: 40px;
     margin-bottom: 20px;
+}
+
+.fitem1{
+    grid-area: a;
+}
+.fitem2{
+    grid-area: b;
+}
+
+.fitem3{
+    grid-area: c;
+}
+
+.fitem4{
+    grid-area: d;
+}
+
+
+.footer-logo{
+    border-radius: 5px;
+    width: 50px;
+
+}
+.fitem1 .title{
+    padding-top: 15px;
+    font-size: 20px;    
+}
+.fitem1 .body{
+    text-align: left;
+    font-size: 15px;
+    margin-top: 15px;
+}
+.fitem2, .fitem3, .fitem4 .title{
+    margin-top: 25px;
+    font-size: 20px;
+    text-align: center;
 }
 /* 
     ***************************************************************************************
