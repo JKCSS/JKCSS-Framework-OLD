@@ -197,6 +197,17 @@ a{
     font-size: 20px;
     text-align: center;
 }
+.fitem2 .body{
+    text-align: left;    
+    font-size: 15px;
+    margin-top: 20px;
+}
+.fitem2 .body ul{
+    list-style-type: none;
+}
+.fitem2 .body ul a{
+    color: white;
+}
 /* 
     ***************************************************************************************
 
