@@ -13,7 +13,7 @@
                     <div class="body">
                         JKCSS is the CSS Framework. and you can use this Framework for design your website faster and responsive.
                         <br></br>
-                        JKCSS, licensed <a href="https://github.com/JKCSS/JKCSS-Framework/blob/main/LICENSE" target="_blank" style="text-decoration: none; color:rgb(0, 88, 204); font-weight: 600;">MIT</a>
+                        JKCSS, licensed Under<a href="https://github.com/JKCSS/JKCSS-Framework/blob/main/LICENSE" target="_blank" style="text-decoration: none; color:rgb(0, 88, 204); font-weight: 600;">MIT</a>
                         <br><br><br>
                         Currently v1
                     </div>
@@ -53,6 +53,10 @@
                     </ul>
                 </div>
             </div>
+        </div>
+        <hr>
+        <div class="footer-copy">
+            All rights reserved by &copy; <a href="https://github.com/JehanKandy" target="_blank">JehanKandy</a> 2021 - 2023
         </div>
     </div>
 </div>
