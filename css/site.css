@@ -98,4 +98,12 @@
     ***************************************************************************************
 */
 
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {}
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+    .box-container{
+        margin: 0px 20px 0px 20px;
+    }
+    .main-nav .right-side{
+        margin-left: 68%;
+        margin-top: -40px;
+    }
+}
