@@ -4,7 +4,10 @@
 
 <div class="main-content">
     <div class="box-container">
-        hi
+        <div class="title">
+            JKCSS - CSS Framework
+        </div>
+        
     </div>
 </div>
 
