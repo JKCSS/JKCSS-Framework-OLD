@@ -81,6 +81,10 @@
     .box-container{
         margin: 0px 70px 0px 70px;
     }
+    .main-nav .right-side{
+        margin-left: 83%;
+        margin-top: -40px;
+    }
 }
 
 
