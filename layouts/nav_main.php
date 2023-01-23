@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="../css/site.css">
 
 <nav>
     <div class="main-nav">
