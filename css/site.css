@@ -21,6 +21,7 @@
     width: 100%;
     color: white;
     padding: 20px 0px 20px 0;
+    box-shadow: 5px 5px 10px purple;
 }
 .main-nav .left-side{
     padding: 8px;
@@ -45,6 +46,9 @@
 .download-btn:hover{
     box-shadow: 5px 5px 30px purple;
     cursor: pointer;
+}
+.footer-content{
+    padding: 100px 0 100px 0;
 }
 
 /* 
