@@ -232,7 +232,9 @@
 .iitem1, .iitem6{
     box-shadow: 5px 5px 30px purple;
 }
-
+.iitem2, .iitem5{
+    box-shadow: 5px 5px 30px purple;
+}
 .iitem1{
     grid-area: a;
 
