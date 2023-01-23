@@ -64,6 +64,19 @@
     margin-top: 20px;
     margin-bottom: 5px;
 }
+.fitem1{
+    grid-area: a;
+}
+.fitem2{
+    grid-area: b;
+}
+.fitem3{
+    grid-area: c;
+}
+.fitem4{
+    grid-area: d;
+}
+
 /* 
     ***************************************************************************************
 
