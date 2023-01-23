@@ -236,7 +236,7 @@
     box-shadow: 5px 5px 30px orange;
 }
 .iitem3, .iitem8{
-    box-shadow: 5px 5px 30px blue;
+    box-shadow: 5px 5px 30px rgb(15, 64, 197);
 }
 .iitem2, .iitem5{
     box-shadow: 5px 5px 30px orange;
