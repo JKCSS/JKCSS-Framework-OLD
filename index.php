@@ -235,6 +235,12 @@
 .iitem2, .iitem5{
     box-shadow: 5px 5px 30px orange;
 }
+.iitem3, .iitem8{
+    box-shadow: 5px 5px 30px blue;
+}
+.iitem2, .iitem5{
+    box-shadow: 5px 5px 30px orange;
+}
 .iitem1{
     grid-area: a;
 
