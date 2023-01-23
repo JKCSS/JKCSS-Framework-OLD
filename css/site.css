@@ -201,6 +201,10 @@
 .main-hr{
     border-top: 1px solid rgb(0, 255, 106);
 }
+.item-content{
+    background-color: rgb(19, 19, 39);
+    color: white;
+}
 
 /* 
     ***************************************************************************************
