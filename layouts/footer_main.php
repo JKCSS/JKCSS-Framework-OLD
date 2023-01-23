@@ -36,7 +36,14 @@
                         </ul>
                     </div>
                 </div>
-                <div class="fitem4"></div>
+                <div class="fitem4">
+                    <div class="title">
+                        Contact
+                    </div>
+                    <div class="body">
+                        sad
+                    </div>
+                </div>
             </div>
         </div>
     </div>
