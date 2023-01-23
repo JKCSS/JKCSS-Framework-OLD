@@ -4,7 +4,7 @@
     <div class="main-nav">
         <div class="box-container">
             <div class="left-side">
-                <div class="logo-text">JKCSS - CSS Framworks</div>
+                <div class="logo-text">JKCSS - CSS Framework</div>
             </div>
         </div>
     </div>
