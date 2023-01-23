@@ -6,6 +6,7 @@
             <div class="main-title">
                 JKCSS - CSS Framework
             </div>
+            <hr class="footer-hr">
             <div class="footer-grid">
                 <div class="fitem1">
                     <div class="title">
