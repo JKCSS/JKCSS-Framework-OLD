@@ -66,7 +66,7 @@
                 </div>
             </div>
             <hr class="footer-hr">
-            <div class="copy">All Rights Reserved By <b><i class="far fa-copyright"></i><a href="https://github.com/JehanKandy" target="_blank">JehanKandy</a></b>,</div>
+            <div class="copy">All Rights Reserved By <b><i class="far fa-copyright"></i><a href="https://github.com/JehanKandy" target="_blank">JehanKandy</a></b> 2021 - 2023, <a href="https://github.com/JKCSS/JKCSS-Framework" target="_blank">JKCSS</a></div>
         </div>
     </div>
 </footer>
