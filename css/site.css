@@ -247,4 +247,17 @@
         margin-left: 68%;
         margin-top: -40px;
     }
+    .footer-content .footer-grid{
+        display: grid;
+        width: 100%;
+        height: auto;
+        grid-template-columns: repeat(1, 1fr);
+        grid-auto-rows: minmax(250px, auto);
+        grid-gap: 2rem;
+        grid-template-areas: "a" "b" "c" "d";
+        padding: 45 45 45 45;
+        margin-top: 20px;
+        margin-bottom: 5px;
+        margin-left: -50px;
+    }
 }
