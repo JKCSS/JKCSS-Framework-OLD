@@ -221,6 +221,7 @@
     padding: 45 45 45 45;
     margin-top: 20px;
     margin-bottom: 5px;
+    margin-left: -50px;
 }
 .iitem1, .iitem2, .iitem3, .iitem4, .iitem5, .iitem6, .iitem7, .iitem8{
     border: 1px solid rgb(202, 198, 198);
