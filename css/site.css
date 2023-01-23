@@ -77,7 +77,12 @@
     ***************************************************************************************
 */
 
-@media only screen and (min-device-width: 481px) and (max-device-width: 820px) {}
+@media only screen and (min-device-width: 481px) and (max-device-width: 820px) {
+    .box-container{
+        margin: 0px 70px 0px 70px;
+    }
+}
+
 
 /* 
     ***************************************************************************************
