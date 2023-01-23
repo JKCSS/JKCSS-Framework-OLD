@@ -66,6 +66,7 @@
                 </div>
             </div>
             <hr class="footer-hr">
+            <div class="copy">All Rights Reserved By <i class="far fa-copyright"></i></div>
         </div>
     </div>
 </footer>
