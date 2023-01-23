@@ -7,7 +7,9 @@
         <div class="title">
             JKCSS - CSS Framework
         </div>
-        
+        <div class="body">
+            Framework
+        </div>        
     </div>
 </div>
 
