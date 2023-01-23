@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@500&family=Roboto:ital@1&family=Sofia+Sans&family=Source+Sans+Pro&display=swap');/*
+    use fonts
+    font-family: 'Catamaran', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sofia Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+*/
+
+*{
+    margin: 0;
+
+}
+
+
+
+/* 
+    ***************************************************************************************
+
+                             commen laptop screen and small screens
+
+                                            769px - 1400px
+
+    ***************************************************************************************
+*/
+
+@media only screen and (min-device-width: 821px) and (max-device-width: 1400px) {
+    .box-container{
+        margin: 0 200px 0 200px;
+    }    
+}
+
+/* 
+    ***************************************************************************************
+
+                                        iPads, Tablets
+
+                                        481px — 768px
+
+    ***************************************************************************************
+*/
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 820px) {}
+
+/* 
+    ***************************************************************************************
+
+                                     commen mobile screen
+
+                                            320x480
+
+    ***************************************************************************************
+*/
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {}
