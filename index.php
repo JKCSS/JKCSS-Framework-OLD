@@ -20,6 +20,18 @@
     <div class="box-container">
         <hr class="main-hr">  
         <div class="title">Components</div>
+        <div class="body">
+            <div class="item-grid">
+                <div class="iitem1"></div>
+                <div class="iitem2"></div>
+                <div class="iitem3"></div>
+                <div class="iitem4"></div>
+                <div class="iitem5"></div>
+                <div class="iitem6"></div>
+                <div class="iitem7"></div>
+                <div class="iitem8"></div>
+            </div>
+        </div>
     </div>
 </div>
 
