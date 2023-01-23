@@ -51,6 +51,13 @@
                             <a href=""><i class="fab fa-twitter" style="color: white; padding:10px; font-size:25px;"></i></a>
                             <a href=""><i class="fab fa-stack-overflow" style="color: white; padding:10px; font-size:25px;"></i></a>
                         </div>
+
+                        <div class="subscribe">
+                            <form action="" method="POST">
+                                <input type="text" name="email" id="" class="form-input" placeholder="Subscribe Us"><br>
+                                <input type="submit" value="Subscribe" class="sub-btn">
+                            </form>
+                        </div>
                     
                     </div>
                 </div>
