@@ -190,6 +190,8 @@
     font-size: 18px;
     background-color: transparent;
     border: 2px solid rgb(221, 20, 221);
+    color: rgb(221, 20, 221);
+    border-radius: 5px;
 }
 
 /* 
