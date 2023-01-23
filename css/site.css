@@ -177,6 +177,7 @@
 .main-content .body .main-jk-img{
     border: 1px solid rgb(221, 20, 221);
     border-radius: 5px;
+    box-shadow: 5px 5px 10px purple;
 }
 
 /* 
