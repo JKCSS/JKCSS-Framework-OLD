@@ -215,7 +215,7 @@
     width: 100%;
     height: auto;
     grid-template-columns: repeat(4, 1fr);
-    grid-auto-rows: minmax(250px, auto);
+    grid-auto-rows: minmax(300px, auto);
     grid-gap: 2rem;
     grid-template-areas: "a b c d" "e f g h";
     padding: 45 45 45 45;
