@@ -27,6 +27,10 @@
     border: 1px solid white;
     border-radius: 2px;
 }
+.main-nav .left-side .logo-text{
+    margin-left: 50px;
+    margin-top: -30px;
+}
 
 /* 
     ***************************************************************************************
