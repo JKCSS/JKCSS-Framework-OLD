@@ -83,10 +83,15 @@
     text-align: center;
     font-size: 20px;
 }
+.fitem2 .title, .fitem3 .title{
+    color: rgb(221, 20, 221);
+}
 .fitem1, .fitem2, .fitem3, .fitem4{
-    border: 1px solid white;
     padding: 30px 50px;
     border-radius: 5px;
+}
+.fitem1, .fitem4{
+    border: 2px solid white;
 }
 
 /* 
