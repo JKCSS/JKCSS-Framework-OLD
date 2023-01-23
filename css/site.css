@@ -137,6 +137,11 @@
     border-radius: 2px;
     transition: 0.5s;
 }
+.sub-btn:hover{
+    background-color: purple;
+    border: 2px solid white;
+    cursor: pointer;
+}
 
 
 /* 
