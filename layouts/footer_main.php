@@ -28,7 +28,12 @@
                 </div>
                 <div class="fitem3">
                     <div class="title">
-                        Pr
+                        Projects
+                    </div>
+                    <div class="body">
+                        <ul>
+                            <li><a href="">JKCSS 1</a></li>
+                        </ul>
                     </div>
                 </div>
                 <div class="fitem4"></div>
