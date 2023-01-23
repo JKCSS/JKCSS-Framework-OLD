@@ -16,6 +16,10 @@
         </div>      
     </div>
 </div>
+<hr class="main-hr">
+<div class="item-content">
+    <div class="title">Components</div>
+</div>
 
 <?php include("layouts/footer_main.php"); ?>
 <script src="js/script.js"></script>
