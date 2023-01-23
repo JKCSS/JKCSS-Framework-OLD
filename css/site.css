@@ -30,7 +30,7 @@
     box-shadow: 5px 5px 10px purple;
 }
 .main-nav .right-side{
-    margin-left: 92%;
+    margin-left: 91%;
     margin-top: -40px;
 }
 .main-nav .right-side .download-btn{
@@ -40,7 +40,11 @@
     color: white;
     font-size: 16px;
     border-radius: 2px;
-
+    transition: 0.5s;
+}
+.download-btn:hover{
+    box-shadow: 5px 5px 30px purple;
+    cursor: pointer;
 }
 
 /* 
@@ -54,7 +58,13 @@
 */
 
 @media only screen and (min-device-width: 821px) and (max-device-width: 1400px) {
-
+    .box-container{
+        margin: 0px 180px 0px 180px;
+    }
+    .main-nav .right-side{
+        margin-left: 89%;
+        margin-top: -40px;
+    }
 }
 
 /* 
