@@ -209,6 +209,7 @@
 .item-content .title{
     padding: 50px 0 20px 0;
     font-size: 18px;
+    margin-left: 50px;
 }
 .item-grid{
     display: grid;
@@ -238,8 +239,8 @@
 .iitem3, .iitem8{
     box-shadow: 5px 5px 30px rgb(15, 64, 197);
 }
-.iitem2, .iitem5{
-    box-shadow: 5px 5px 30px green;
+.iitem4, .iitem7{
+    box-shadow: 5px 5px 30px rgb(25, 224, 115);
 }
 .iitem1{
     grid-area: a;
