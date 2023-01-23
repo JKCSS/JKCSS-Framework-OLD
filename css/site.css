@@ -174,7 +174,10 @@
     text-align: center;
     margin: 20px 0 20px 0;
 }
-
+.main-content .body .main-jk-img{
+    border: 1px solid rgb(221, 20, 221);
+    border-radius: 5px;
+}
 
 /* 
     ***************************************************************************************
