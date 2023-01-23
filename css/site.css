@@ -166,6 +166,10 @@
     font-family: 'Roboto', sans-serif;
     padding: 100px 0 100px 0;
 }
+.main-content .title{
+    text-align: center;
+    font-size: 35px;
+}
 
 
 /* 
