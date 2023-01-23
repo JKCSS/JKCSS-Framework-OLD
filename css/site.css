@@ -92,9 +92,12 @@
 }
 .fitem1, .fitem4{
     background-color: purple;
+    box-shadow: 5px 5px 10px rgb(82, 10, 82);
+    border: 2px solid purple;
 }
 .fitem2, .fitem3{
     border: 2px solid rgb(221, 20, 221);
+    box-shadow: 5px 5px 10px purple;
 }
 .fitem2 ul, .fitem3 ul{
     list-style-type: none;
@@ -111,6 +114,9 @@
     padding: 2px;
     cursor: pointer;
     color: rgb(221, 20, 221);
+}
+.follow{
+    padding: 30px 0 30px 0;
 }
 
 
