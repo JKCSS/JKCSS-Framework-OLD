@@ -50,7 +50,18 @@
 .footer-content{
     padding: 100px 0 100px 0;
 }
-
+.footer-content .footer-grid{
+    display: grid;
+    width: 100%;
+    height: auto;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: minmax(350px, auto);
+    grid-gap: 1rem;
+    grid-template-areas: "a b c d";
+    padding: 45 45 45 45;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
 /* 
     ***************************************************************************************
 
