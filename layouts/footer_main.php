@@ -66,7 +66,7 @@
                 </div>
             </div>
             <hr class="footer-hr">
-            <div class="copy">All Rights Reserved By <b><i class="far fa-copyright"></i><a href="https://github.com/JehanKandy" target="_blank"></a>JehanKandy </b>,</div>
+            <div class="copy">All Rights Reserved By <b><i class="far fa-copyright"></i><a href="https://github.com/JehanKandy" target="_blank">JehanKandy</a></b>,</div>
         </div>
     </div>
 </footer>
