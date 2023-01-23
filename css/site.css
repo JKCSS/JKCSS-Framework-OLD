@@ -215,37 +215,59 @@
     width: 100%;
     height: auto;
     grid-template-columns: repeat(4, 1fr);
-    grid-auto-rows: minmax(250px, auto);
-    grid-gap: 2rem;
+    grid-auto-rows: minmax(300px, auto);
+    grid-gap: 3rem;
     grid-template-areas: "a b c d" "e f g h";
     padding: 45 45 45 45;
     margin-top: 20px;
     margin-bottom: 5px;
 }
+.iitem1, .iitem2, .iitem3, .iitem4, .iitem5, .iitem6, .iitem7, .iitem8{
+    border: 1px solid rgb(202, 198, 198);
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 5px;
+    background-color: rgb(30, 30, 46);
+}
+.iitem1, .iitem6{
+    box-shadow: 5px 5px 30px purple;
+}
+.iitem2, .iitem5{
+    box-shadow: 5px 5px 30px orange;
+}
+.iitem3, .iitem8{
+    box-shadow: 5px 5px 30px rgb(15, 64, 197);
+}
+.iitem4, .iitem7{
+    box-shadow: 5px 5px 30px rgb(37, 204, 112);
+}
 .iitem1{
     grid-area: a;
+
 }
 .iitem2{
-    grid-area: a;
+    grid-area: b;
 }
 .iitem3{
-    grid-area: a;
+    grid-area: c;
 }
 .iitem4{
-    grid-area: a;
+    grid-area: d;
 }
 .iitem5{
-    grid-area: a;
+    grid-area: e;
 }
 .iitem6{
-    grid-area: a;
+    grid-area: f;
 }
 .iitem7{
-    grid-area: a;
+    grid-area: g;
 }
 .iitem8{
-    grid-area: a;
+    grid-area: h;
 }
+
+
 /* 
     ***************************************************************************************
 
