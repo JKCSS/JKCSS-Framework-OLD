@@ -13,12 +13,14 @@
         <div class="text-main">
             Develop user own Websites with JKCSS Faster than Faster.. <br>
             <a href=""><button class="get-strated">Get Started</button></a>
-        </div>      
+        </div>    
     </div>
 </div>
-<hr class="main-hr">
 <div class="item-content">
-    <div class="title">Components</div>
+    <div class="box-container">
+        <hr class="main-hr">  
+        <div class="title">Components</div>
+    </div>
 </div>
 
 <?php include("layouts/footer_main.php"); ?>
