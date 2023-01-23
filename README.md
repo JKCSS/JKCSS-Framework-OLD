@@ -5,7 +5,7 @@
 
 # Developers
  
- <b>JehanKandy (Owner)</b>
+ <b>JehanKandy (Founder/Developer)</b>
  
   - [JehanKandy](https://github.com/JehanKandy)
 
