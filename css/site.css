@@ -48,7 +48,7 @@
     cursor: pointer;
 }
 .footer-content{
-    padding: 100px 0 100px 0;
+    padding: 50px 0 50px 0;
     background-color: rgb(19, 19, 39);
     color: white;
 }
@@ -57,7 +57,7 @@
     width: 100%;
     height: auto;
     grid-template-columns: repeat(4, 1fr);
-    grid-auto-rows: minmax(350px, auto);
+    grid-auto-rows: minmax(250px, auto);
     grid-gap: 1rem;
     grid-template-areas: "a b c d";
     padding: 45 45 45 45;
