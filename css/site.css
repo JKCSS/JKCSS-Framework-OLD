@@ -91,7 +91,10 @@
     border-radius: 5px;
 }
 .fitem1, .fitem4{
-    border: 2px solid white;
+    background-color: purple;
+}
+.fitem2, .fitem3{
+    border: 2px solid rgb(221, 20, 221);
 }
 
 /* 
