@@ -51,9 +51,9 @@
 
                         <div class="follow">
                             <a href="https://github.com/JehanKandy" target="_blank"><i class="fab fa-github" style="color: white; padding:10px; font-size:25px;"></i></a>
-                            <a href=""><i class="fab fa-linkedin-in" style="color: white; padding:10px; font-size:25px;"></i></a>
-                            <a href=""><i class="fab fa-twitter" style="color: white; padding:10px; font-size:25px;"></i></a>
-                            <a href=""><i class="fab fa-stack-overflow" style="color: white; padding:10px; font-size:25px;"></i></a>
+                            <a href="https://www.linkedin.com/in/jehan-kandy-23a3a4223/" target="_blank"><i class="fab fa-linkedin-in" style="color: white; padding:10px; font-size:25px;"></i></a>
+                            <a href="" target="_blank"><i class="fab fa-twitter" style="color: white; padding:10px; font-size:25px;"></i></a>
+                            <a href="" target="_blank"><i class="fab fa-stack-overflow" style="color: white; padding:10px; font-size:25px;"></i></a>
                         </div>
 
                         <div class="subscribe">
