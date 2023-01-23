@@ -8,7 +8,7 @@
             JKCSS - CSS Framework
         </div>
         <div class="body">
-            Framework
+            <img src="https://avatars.githubusercontent.com/u/111488170?s=200&v=4" alt="JKCSS" class="main-jk-img">
         </div>        
     </div>
 </div>
