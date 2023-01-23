@@ -21,7 +21,7 @@
     width: 100%;
     color: white;
     padding: 20px 0px 20px 0;
-    box-shadow: 5px 5px 10px purple;
+    border-bottom: 1px solid rgb(221, 20, 221);
 }
 .main-nav .left-side{
     padding: 8px;
@@ -159,6 +159,9 @@
 .copy a{
     text-decoration: none;
     color: rgb(221, 20, 221);
+}
+.main-content{
+    background-color: rgb(19, 19, 39);
 }
 
 
