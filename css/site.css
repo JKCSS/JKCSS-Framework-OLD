@@ -161,7 +161,9 @@
     color: rgb(221, 20, 221);
 }
 .main-content{
+    color: white;
     background-color: rgb(19, 19, 39);
+    font-family: 'Roboto', sans-serif;
 }
 
 
