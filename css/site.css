@@ -49,6 +49,8 @@
 }
 .footer-content{
     padding: 100px 0 100px 0;
+    background-color: rgb(19, 19, 39);
+    color: white;
 }
 .footer-content .footer-grid{
     display: grid;
