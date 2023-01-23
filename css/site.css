@@ -96,6 +96,23 @@
 .fitem2, .fitem3{
     border: 2px solid rgb(221, 20, 221);
 }
+.fitem2 ul, .fitem3 ul{
+    list-style-type: none;
+}
+.fitem2 ul li, .fitem3 ul li{
+    padding: 10px;
+}
+.fitem2 ul li a, .fitem3 ul li a{
+    color: white;
+    text-decoration: none;
+}
+.fitem2 ul li a:hover, .fitem3 ul li  a:hover{
+    color: white;
+    padding: 2px;
+    cursor: pointer;
+    color: rgb(221, 20, 221);
+}
+
 
 /* 
     ***************************************************************************************
