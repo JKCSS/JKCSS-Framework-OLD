@@ -5,7 +5,9 @@
         <div class="box-container">
             <div class="footer-grid">
                 <div class="fitem1">
-                    <div class="title">JKCSS</div>
+                    <div class="title">
+                        JKCSS
+                    </div>
                     <div class="body">
                         Develop user own Websites with JKCSS Faster than Faster
                     </div>
@@ -24,7 +26,11 @@
                         </ul>
                     </div>
                 </div>
-                <div class="fitem3"></div>
+                <div class="fitem3">
+                    <div class="title">
+                        Pr
+                    </div>
+                </div>
                 <div class="fitem4"></div>
             </div>
         </div>
