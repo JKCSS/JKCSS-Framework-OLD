@@ -10,6 +10,10 @@
 
 *{
     margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.box-container{
+    margin: 0px 200px 0px 200px;
 }
 
 /* 
