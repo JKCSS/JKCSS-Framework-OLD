@@ -230,7 +230,7 @@
     background-color: rgb(30, 30, 46);
 }
 .iitem1, .iitem6{
-    box-shadow: 5px 5px 20px purple;
+    box-shadow: 5px 5px 30px purple;
 }
 
 .iitem1{
