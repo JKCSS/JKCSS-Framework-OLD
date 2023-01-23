@@ -224,6 +224,10 @@
 }
 .iitem1{
     grid-area: a;
+    border: 1px solid gray;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 5px;
 }
 .iitem2{
     grid-area: b;
@@ -246,6 +250,8 @@
 .iitem8{
     grid-area: h;
 }
+
+
 /* 
     ***************************************************************************************
 
