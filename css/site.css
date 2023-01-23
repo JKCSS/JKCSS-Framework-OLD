@@ -20,11 +20,11 @@
     background-color: rgb(19, 19, 39);
     width: 100%;
     color: white;
-    padding: 30px 0px 30px 0;
+    padding: 20px 0px 20px 0;
 }
-.main-nav .left-side .logo-text{
-    margin-left: 40px;
-    margin-top: -25px;
+.main-nav .left-side{
+    padding: 8px;
+    border: 1px solid purple;
 }
 
 
