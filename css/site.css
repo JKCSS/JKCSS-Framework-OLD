@@ -143,6 +143,10 @@
     cursor: pointer;
     color: purple;
 }
+.main-title{
+    text-align: center;
+    font-size: 40px;
+}
 
 
 /* 
