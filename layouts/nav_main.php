@@ -3,7 +3,9 @@
 <nav>
     <div class="main-nav">
         <div class="box-container">
-            hi
+            <div class="left-side">
+                <div class="logo-text">JKCSS - CSS Framworks</div>
+            </div>
         </div>
     </div>
 </nav>
