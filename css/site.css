@@ -192,6 +192,7 @@
     border: 2px solid rgb(221, 20, 221);
     color: rgb(221, 20, 221);
     border-radius: 5px;
+    transition: 0.5s;
 }
 .get-strated:hover{
     box-shadow: 5px 5px 10px purple;
