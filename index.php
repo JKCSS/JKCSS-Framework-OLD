@@ -216,7 +216,7 @@
     height: auto;
     grid-template-columns: repeat(4, 1fr);
     grid-auto-rows: minmax(300px, auto);
-    grid-gap: 2rem;
+    grid-gap: 3rem;
     grid-template-areas: "a b c d" "e f g h";
     padding: 45 45 45 45;
     margin-top: 20px;
@@ -224,10 +224,12 @@
 }
 .iitem1{
     grid-area: a;
-    border: 1px solid gray;
+    border: 1px solid rgb(202, 198, 198);
     text-align: center;
     padding-top: 50px;
     border-radius: 5px;
+    background-color: rgb(30, 30, 46);
+    box-shadow: 5px 5px 30px purple
 }
 .iitem2{
     grid-area: b;
