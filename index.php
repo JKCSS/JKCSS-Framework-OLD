@@ -11,7 +11,7 @@
             <img src="https://avatars.githubusercontent.com/u/111488170?s=200&v=4" alt="JKCSS" class="main-jk-img">
         </div>  
         <div class="text-main">
-            Develop user own Websites with JKCSS Faster than Faster..
+            Develop user own Websites with JKCSS Faster than Faster.. <br>
             <a href=""><button class="get-strated">Get Started</button></a>
         </div>      
     </div>
