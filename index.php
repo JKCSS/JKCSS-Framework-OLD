@@ -222,14 +222,20 @@
     margin-top: 20px;
     margin-bottom: 5px;
 }
-.iitem1{
-    grid-area: a;
+.iitem1, .iitem2, .iitem3, .iitem4, .iitem5, .iitem6, .iitem7, .iitem8{
     border: 1px solid rgb(202, 198, 198);
     text-align: center;
     padding-top: 50px;
     border-radius: 5px;
     background-color: rgb(30, 30, 46);
-    box-shadow: 5px 5px 30px purple
+}
+.iitem1, .iitem6{
+    box-shadow: 5px 5px 20px purple;
+}
+
+.iitem1{
+    grid-area: a;
+
 }
 .iitem2{
     grid-area: b;
