@@ -1,70 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@500&family=Roboto:ital@1&family=Sofia+Sans&family=Source+Sans+Pro&display=swap');
-/*
-    use fonts
-    font-family: 'Catamaran', sans-serif;
-    font-family: 'Roboto', sans-serif;
-    font-family: 'Sofia Sans', sans-serif;
-    font-family: 'Source Sans Pro', sans-serif;
+<link rel="stylesheet" href="../css/site.css">
 
-    https://drive.google.com/uc?export=download&id=1kXjq5Oik5YSPafbIFd98reqEM-6Os1t_
-*/
+<nav>
+    <div class="main-nav">
+        <div class="box-container">
+            <div class="left-side">
+                <div class="logo-text">JKCSS - CSS Framworks</div>
+            </div>
+            <div class="right-side">
+                <a href=""><button class="download-btn">Download</button></a>
+            </div>
+        </div>
+    </div>
+</nav>
 
-*{
-    margin: 0;
-    font-family: 'Source Sans Pro', sans-serif;
-}
-.box-container{
-    margin: 0px 200px 0px 200px;
-}
-.main-nav{
-    background-color: rgb(19, 19, 39);
-    width: 100%;
-    color: white;
-    padding: 20px 0px 20px 0;
-}
-.main-nav .left-side{
-    padding: 8px;
-    border: 2px solid purple;
-    width: 160px;
-    border-radius: 2px;
-    box-shadow: 5px 5px 10px purple;
-}
-
-
-/* 
-    ***************************************************************************************
-
-                             commen laptop screen and small screens
-
-                                            769px - 1400px
-
-    ***************************************************************************************
-*/
-
-@media only screen and (min-device-width: 821px) and (max-device-width: 1400px) {
-
-}
-
-/* 
-    ***************************************************************************************
-
-                                        iPads, Tablets
-
-                                        481px — 768px
-
-    ***************************************************************************************
-*/
-
-@media only screen and (min-device-width: 481px) and (max-device-width: 820px) {}
-
-/* 
-    ***************************************************************************************
-
-                                     commen mobile screen
-
-                                            320x480
-
-    ***************************************************************************************
-*/
-
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {}
+<script src="../js/script.js"></script>
