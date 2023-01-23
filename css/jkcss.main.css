@@ -8,7 +8,6 @@
 
 *{
     margin: 0;
-
 }
 
 
@@ -24,9 +23,7 @@
 */
 
 @media only screen and (min-device-width: 821px) and (max-device-width: 1400px) {
-    .box-container{
-        margin: 0 200px 0 200px;
-    }    
+
 }
 
 /* 
