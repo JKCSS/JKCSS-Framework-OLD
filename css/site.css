@@ -24,8 +24,10 @@
 }
 .main-nav .left-side{
     padding: 8px;
-    border: 1px solid purple;
+    border: 2px solid purple;
     width: 160px;
+    border-radius: 2px;
+    box-shadow: 5px 5px 10px purple;
 }
 
 
