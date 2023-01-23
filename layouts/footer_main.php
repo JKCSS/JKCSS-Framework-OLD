@@ -3,6 +3,9 @@
 <footer>
     <div class="footer-content">
         <div class="box-container">
+            <div class="main-title">
+                JKCSS - CSS Framework
+            </div>
             <div class="footer-grid">
                 <div class="fitem1">
                     <div class="title">
@@ -54,11 +57,10 @@
 
                         <div class="subscribe">
                             <form action="" method="POST">
-                                <input type="text" name="email" id="" class="form-input" placeholder="Subscribe Us"><br>
+                                <input type="email" name="email" id="" class="form-input" placeholder="Subscribe Us"><br>
                                 <input type="submit" value="Subscribe" class="sub-btn">
                             </form>
-                        </div>
-                    
+                        </div>                    
                     </div>
                 </div>
             </div>
