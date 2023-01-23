@@ -2,6 +2,7 @@
 <?php include("layouts/header.php"); ?>
 <?php include("layouts/nav_main.php"); ?>
 
+
 <div class="main-content">
     <div class="box-container">
         <div class="title">
