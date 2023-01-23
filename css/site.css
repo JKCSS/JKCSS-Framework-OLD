@@ -188,6 +188,8 @@
     margin-top: 20px;
     padding: 10px 40px;
     font-size: 18px;
+    background-color: transparent;
+    border: 2px solid rgb(221, 20, 221);
 }
 
 /* 
