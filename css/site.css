@@ -334,6 +334,7 @@
 }
 .follow-item-git:hover, .follow-item-linked:hover, .follow-item-tw:hover, .follow-item-stack:hover{
     cursor: pointer;
+    color: white;
 }
 .follow-item-git{
     color: rgb(221, 20, 221);
@@ -351,9 +352,7 @@
     color: rgb(15, 64, 197);
     text-shadow: 2px 2px 8px rgb(15, 64, 197);
 }
-.follow-item-git:hover{
-    color: white;
-}
+
 /* 
     ***************************************************************************************
 
