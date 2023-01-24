@@ -96,6 +96,25 @@
         <div class="title">
             Development Team
         </div>
+        <div class="body">
+            <div class="team-grid">
+                <div class="titem1">
+                    <div class="title">
+                        Co-Founder
+                    </div>
+                </div>
+                <div class="titem2">
+                    <div class="title">
+                        Founder
+                    </div>
+                </div>
+                <div class="titem3">
+                    <div class="title">
+                        Co-Founder
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
