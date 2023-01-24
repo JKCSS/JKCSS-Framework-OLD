@@ -91,5 +91,13 @@
     </div>    
 </div>
 
+<div class="team-content">
+    <div class="box-container">
+        <div class="title">
+            Development Team
+        </div>
+    </div>
+</div>
+
 <?php include("layouts/footer_main.php"); ?>
 <script src="js/script.js"></script>
