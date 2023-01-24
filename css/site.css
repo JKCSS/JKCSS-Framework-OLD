@@ -403,6 +403,13 @@
 }
 .titem2{
     background-color: purple;
+    color: purple;
+}
+.titem2:hover{
+    background:transparent;
+}
+.titem2:hover .title{
+    color: rgb(221, 20, 221);
 }
 .titem1 .title, .titem2 .title, .titem3 .title{
     text-align: center;
