@@ -288,6 +288,10 @@
     border: 1px solid orange;
     color: orange;
 }
+.iitem2:hover .item-pbtn, .iitem5:hover .item-pbtn{
+    box-shadow: 5px 5px 30px rgb(221, 20, 221);
+    padding: 20px;
+}
 
 /* 
     ***************************************************************************************
