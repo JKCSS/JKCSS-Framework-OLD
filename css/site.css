@@ -308,7 +308,11 @@
     box-shadow: 5px 5px 30px rgb(37, 204, 112);
     padding: 20px;
 }
-
+.follow-content{
+    background-color: rgb(19, 19, 39);
+    padding: 0 0 50px 0;
+    color: white;
+}
 /* 
     ***************************************************************************************
 
