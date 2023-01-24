@@ -357,7 +357,10 @@
     border-top: 2px solid rgb(37, 204, 112);
     box-shadow: 5px 5px 30px rgb(37, 204, 112);
 }
-
+.team-content{
+    background-color: rgb(19, 19, 39);
+    color: white;
+}
 /* 
     ***************************************************************************************
 
