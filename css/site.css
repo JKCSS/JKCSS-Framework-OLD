@@ -340,15 +340,15 @@
 }
 .follow-item-linked{
     color: rgb(37, 204, 112);
-    text-shadow: 2px 2px 8px purple;
+    text-shadow: 2px 2px 8px rgb(37, 204, 112);
 }
 .follow-item-tw{
     color: orange;
-    text-shadow: 2px 2px 8px purple;
+    text-shadow: 2px 2px 8px orange;
 }
 .follow-item-stack{
     color: rgb(15, 64, 197);
-    text-shadow: 2px 2px 8px purple;
+    text-shadow: 2px 2px 8px rgb(15, 64, 197);
 }
 /* 
     ***************************************************************************************
