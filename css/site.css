@@ -327,8 +327,9 @@
     text-align: center;
     margin: 20px 0 20px 0;
 }
-.follow-content .body .follow-item-git{
+.follow-content .body .follow-item-git, .follow-item-linked, .follow-item-tw, .follow-item-stack{
     font-size: 40px;
+    margin: 0 20px 0 20px;
 }
 /* 
     ***************************************************************************************
