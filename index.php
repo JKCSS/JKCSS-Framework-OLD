@@ -77,6 +77,7 @@
 
 <div class="follow-content">
     <div class="box-container">
+        <hr class="orange-hr">
         <div class="title">
             Follow Us on
         </div>
