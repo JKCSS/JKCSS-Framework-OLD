@@ -103,12 +103,15 @@
                         Co-Founder
                     </div>
                     <div class="body">
-                        <img src="images/1.jpeg" alt="founder" class="team-img">
+                       
                     </div>
                 </div>
                 <div class="titem2">
                     <div class="title">
                         Founder
+                    </div>
+                    <div class="body">
+                        <img src="images/1.jpeg" alt="founder" class="team-img">
                     </div>
                 </div>
                 <div class="titem3">
