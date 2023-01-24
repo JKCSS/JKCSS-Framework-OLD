@@ -318,6 +318,7 @@
     padding: 50px 0 20px 0;
     font-size: 30px;
     text-align: center;
+    text-shadow: 2px 2px 8px purple;
 }
 .orange-hr{
     border-top: 2px solid orange;
@@ -362,9 +363,10 @@
     color: white;
 }
 .team-content .title{
-    padding: 50px 0 20px 0;
+    padding: 20px 0 20px 0;
     font-size: 30px;
     text-align: center;
+    text-shadow: 2px 2px 8px rgb(37, 204, 112);
 }
 /* 
     ***************************************************************************************
