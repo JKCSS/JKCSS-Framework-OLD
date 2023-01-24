@@ -2,7 +2,6 @@
 <?php include("layouts/header.php"); ?>
 <?php include("layouts/nav_main.php"); ?>
 
-
 <div class="main-content">
     <div class="box-container">
         <div class="title">
@@ -73,6 +72,12 @@
                 </div>
             </div>
         </div>
+    </div>
+</div>
+
+<div class="follow-content">
+    <div class="box-container">
+        GOOo
     </div>
 </div>
 
