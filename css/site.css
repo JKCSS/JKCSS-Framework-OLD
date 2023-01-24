@@ -277,7 +277,7 @@
     border: 1px solid rgb(221, 20, 221);
     color: rgb(221, 20, 221);
 }
-.iitem1:hover, .iitem6:hover{
+.iitem1:hover, .iitem2:hover, .iitem3:hover, .iitem4:hover, .iitem5:hover, .iitem6:hover, .iitem7:hover, .iitem8:hover{ 
     cursor: pointer;
 }
 .iitem1:hover .item-pbtn, .iitem6:hover .item-pbtn{
@@ -289,7 +289,7 @@
     color: orange;
 }
 .iitem2:hover .item-pbtn, .iitem5:hover .item-pbtn{
-    box-shadow: 5px 5px 30px rgb(221, 20, 221);
+    box-shadow: 5px 5px 30px orange;
     padding: 20px;
 }
 
