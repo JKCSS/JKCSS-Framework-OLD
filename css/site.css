@@ -413,6 +413,13 @@
 .titem2:hover .team-img{
     border: none;
 }
+.titem2:hover .team-text{
+    color: rgb(221, 20, 221);
+}
+.titem2 .team-text{
+    padding: 15px;
+    color: white;
+}
 .titem1 .title, .titem2 .title, .titem3 .title{
     text-align: center;
     color:white;
