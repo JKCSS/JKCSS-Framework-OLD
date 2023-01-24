@@ -83,6 +83,9 @@
         </div>
         <div class="body">
             <i class="fab fa-github follow-item-git"></i>
+            <i class="fab fa-linkedin follow-item-linked"></i>
+            <i class="fab fa-twitter-square follow-item-tw"></i>
+            <i class="	fab fa-stack-overflow follow-item-stack"></i>
         </div>
     </div>
 </div>
