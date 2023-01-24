@@ -82,7 +82,7 @@
             Follow Us on
         </div>
         <div class="body">
-            <i class="fab fa-github follow-item"></i>
+            <i class="fab fa-github follow-item-git"></i>
         </div>
     </div>
 </div>
