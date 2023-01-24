@@ -313,9 +313,10 @@
     padding: 0 0 50px 0;
     color: white;
 }
-.footer-content .title{
+.follow-content .title{
     padding: 50px 0 20px 0;
     font-size: 30px;
+    text-align: center;
 }
 /* 
     ***************************************************************************************
