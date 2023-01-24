@@ -81,6 +81,9 @@
         <div class="title">
             Follow Us on
         </div>
+        <div class="body">
+            <i class="fab fa-github follow-item"></i>
+        </div>
     </div>
 </div>
 
