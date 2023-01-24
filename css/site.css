@@ -293,11 +293,19 @@
     padding: 20px;
 }
 .iitem3 .item-pbtn, .iitem8 .item-pbtn{
-    border: 1px solid ;
-    color: orange;
+    border: 1px solid rgb(15, 64, 197);
+    color: rgb(15, 64, 197);
 }
 .iitem3:hover .item-pbtn, .iitem8:hover .item-pbtn{
-    box-shadow: 5px 5px 30px orange;
+    box-shadow: 5px 5px 30px rgb(15, 64, 197);
+    padding: 20px;
+}
+.iitem4 .item-pbtn, .iitem7 .item-pbtn{
+    border: 1px solid rgb(37, 204, 112);
+    color: rgb(37, 204, 112);
+}
+.iitem4:hover .item-pbtn, .iitem7:hover .item-pbtn{
+    box-shadow: 5px 5px 30px rgb(37, 204, 112);
     padding: 20px;
 }
 
