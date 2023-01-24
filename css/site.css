@@ -390,6 +390,10 @@
 .titem3{
     grid-area: c;
 }
+
+.titem1 .title, .titem2 .title, .titem3 .title{
+    text-align: center;
+}
 /* 
     ***************************************************************************************
 
