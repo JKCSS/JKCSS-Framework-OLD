@@ -77,7 +77,9 @@
 
 <div class="follow-content">
     <div class="box-container">
-        GOOo
+        <div class="title">
+            Follow Us on
+        </div>
     </div>
 </div>
 
