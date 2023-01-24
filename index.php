@@ -112,6 +112,9 @@
                     </div>
                     <div class="body">
                         <img src="images/1.jpeg" alt="founder" class="team-img">
+                        <div class="team-text">
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos harum perferendis quod eum, cupiditate mollitia, itaque error quia dolor ullam voluptatem fugiat dicta illum officiis dolore repudiandae ab id beatae.
+                        </div>
                     </div>
                 </div>
                 <div class="titem3">
