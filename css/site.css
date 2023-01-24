@@ -231,7 +231,7 @@
     background-color: rgb(30, 30, 46);
 }
 .iitem1, .iitem6{
-    box-shadow: 5px 5px 30px purple;
+    box-shadow: 5px 5px 30px rgb(221, 20, 221);
 }
 .iitem2, .iitem5{
     box-shadow: 5px 5px 30px orange;
@@ -244,7 +244,6 @@
 }
 .iitem1{
     grid-area: a;
-
 }
 .iitem2{
     grid-area: b;
@@ -270,6 +269,24 @@
 
 .item-pbtn{
     padding: 10px 35px 10px 35px;
+    background: transparent;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.iitem1 .item-pbtn, .iitem6 .item-pbtn{
+    border: 1px solid rgb(221, 20, 221);
+    color: rgb(221, 20, 221);
+}
+.iitem1:hover, .iitem6:hover{
+    cursor: pointer;
+}
+.iitem1:hover .item-pbtn, .iitem6:hover .item-pbtn{
+    box-shadow: 5px 5px 30px rgb(221, 20, 221);
+    padding: 20px;
+}
+.iitem2 .item-pbtn, .iitem5 .item-pbtn{
+    border: 1px solid orange;
+    color: orange;
 }
 
 /* 
