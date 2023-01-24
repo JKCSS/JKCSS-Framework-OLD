@@ -334,6 +334,15 @@
 .follow-item-git:hover, .follow-item-linked:hover, .follow-item-tw:hover, .follow-item-stack:hover{
     cursor: pointer;
 }
+.follow-item-git{
+    color: rgb(221, 20, 221);
+}
+.follow-item-linked{
+    color: rgb(37, 204, 112);
+}
+.follow-item-tw{
+    color: orange;
+}
 /* 
     ***************************************************************************************
 
