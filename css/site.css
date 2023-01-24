@@ -292,6 +292,14 @@
     box-shadow: 5px 5px 30px orange;
     padding: 20px;
 }
+.iitem3 .item-pbtn, .iitem8 .item-pbtn{
+    border: 1px solid ;
+    color: orange;
+}
+.iitem3:hover .item-pbtn, .iitem8:hover .item-pbtn{
+    box-shadow: 5px 5px 30px orange;
+    padding: 20px;
+}
 
 /* 
     ***************************************************************************************
