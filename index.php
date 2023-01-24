@@ -82,10 +82,10 @@
             Follow Us on
         </div>
         <div class="body">
-            <i class="fab fa-github follow-item-git"></i>
-            <i class="fab fa-linkedin follow-item-linked"></i>
-            <i class="fab fa-twitter-square follow-item-tw"></i>
-            <i class="	fab fa-stack-overflow follow-item-stack"></i>
+            <a href="https://github.com/JehanKandy" target="_blank"><i class="fab fa-github follow-item-git"></i></a>
+            <a href="https://www.linkedin.com/in/jehan-kandy-23a3a4223/" target="_blank"><i class="fab fa-linkedin follow-item-linked"></i></a>
+            <a href="https://twitter.com/jehankandy" target="_blank"><i class="fab fa-twitter-square follow-item-tw"></i></a>
+            <a href="https://stackoverflow.com/users/17414173/jehan-kandy" target="_blank"><i class="fab fa-stack-overflow follow-item-stack"></i></a>
         </div>
     </div>
 </div>
