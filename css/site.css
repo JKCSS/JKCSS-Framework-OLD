@@ -410,15 +410,22 @@
 .titem2:hover .title{
     color: rgb(221, 20, 221);
 }
+.titem2:hover .team-img{
+    border: none;
+}
 .titem1 .title, .titem2 .title, .titem3 .title{
     text-align: center;
     color:white;
     text-shadow: none;
 }
+.titem2 .body{
+    text-align: center;
+}
 .team-img{
     border-radius: 100%;
     width: 200px;
     height: 200px;
+    border: 2px solid white;
 }
 /* 
     ***************************************************************************************
