@@ -87,7 +87,8 @@
             <a href="https://twitter.com/jehankandy" target="_blank"><i class="fab fa-twitter-square follow-item-tw"></i></a>
             <a href="https://stackoverflow.com/users/17414173/jehan-kandy" target="_blank"><i class="fab fa-stack-overflow follow-item-stack"></i></a>
         </div>
-    </div>
+        <hr class="green-hr">
+    </div>    
 </div>
 
 <?php include("layouts/footer_main.php"); ?>
