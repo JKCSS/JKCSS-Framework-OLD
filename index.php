@@ -103,7 +103,18 @@
                         Co-Founder
                     </div>
                     <div class="body">
-                       
+                        <img src="images/1.jpeg" alt="founder" class="team-img">
+                        <div class="team-text">
+                            <a href="https://github.com/JehanKandy" target="_blank"><i class="fa fa-github" aria-hidden="true" style="padding-bottom: 20px;"></i>&nbsp;github/JehanKandy</a><br>
+                            <a href="https://www.linkedin.com/in/jehan-kandy-23a3a4223/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true" style="padding-bottom: 20px;"></i>&nbsp;linkedin/JehanKandy</a><br>
+                            <a href="https://stackoverflow.com/users/17414173/jehan-kandy" target="_blank"><i class="fa fa-stack-overflow" aria-hidden="true"></i>&nbsp;stackoverflow/Jehankandy</a>
+                        </div>
+                        <div class="roll">
+                            <div class="name">Jehankandy</div>
+                            <div class="roll-type">
+                                Founder, Developer
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="titem2">
@@ -113,17 +124,35 @@
                     <div class="body">
                         <img src="images/1.jpeg" alt="founder" class="team-img">
                         <div class="team-text">
-                            <a href="https://github.com/JehanKandy" target="_blank"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;github/JehanKandy</a><br>
-                            <a href="https://www.linkedin.com/in/jehan-kandy-23a3a4223/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i>&nbsp;linkediin/JehanKandy</a>
+                            <a href="https://github.com/JehanKandy" target="_blank"><i class="fa fa-github" aria-hidden="true" style="padding-bottom: 20px;"></i>&nbsp;github/JehanKandy</a><br>
+                            <a href="https://www.linkedin.com/in/jehan-kandy-23a3a4223/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true" style="padding-bottom: 20px;"></i>&nbsp;linkedin/JehanKandy</a><br>
+                            <a href="https://stackoverflow.com/users/17414173/jehan-kandy" target="_blank"><i class="fa fa-stack-overflow" aria-hidden="true"></i>&nbsp;stackoverflow/Jehankandy</a>
                         </div>
-                        <div class="contact">
-                        
+                        <div class="roll">
+                            <div class="name">Jehankandy</div>
+                            <div class="roll-type">
+                                Founder, Developer
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div class="titem3">
                     <div class="title">
                         Co-Founder
+                    </div>
+                    <div class="body">
+                        <img src="images/1.jpeg" alt="founder" class="team-img">
+                        <div class="team-text">
+                            <a href="https://github.com/JehanKandy" target="_blank"><i class="fa fa-github" aria-hidden="true" style="padding-bottom: 20px;"></i>&nbsp;github/JehanKandy</a><br>
+                            <a href="https://www.linkedin.com/in/jehan-kandy-23a3a4223/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true" style="padding-bottom: 20px;"></i>&nbsp;linkedin/JehanKandy</a><br>
+                            <a href="https://stackoverflow.com/users/17414173/jehan-kandy" target="_blank"><i class="fa fa-stack-overflow" aria-hidden="true"></i>&nbsp;stackoverflow/Jehankandy</a>
+                        </div>
+                        <div class="roll">
+                            <div class="name">Jehankandy</div>
+                            <div class="roll-type">
+                                Founder, Developer
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
