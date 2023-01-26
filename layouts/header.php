@@ -7,7 +7,7 @@
     <title>JKCSS</title>
     <link rel="icon" href="https://avatars.githubusercontent.com/u/111488170?s=200&v=4">   
     <script src="https://kit.fontawesome.com/c5846604ac.js" crossorigin="anonymous"></script>
-
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
     
