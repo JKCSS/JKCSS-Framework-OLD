@@ -113,7 +113,10 @@
                     <div class="body">
                         <img src="images/1.jpeg" alt="founder" class="team-img">
                         <div class="team-text">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos harum perferendis quod eum, cupiditate mollitia, itaque error quia dolor ullam voluptatem fugiat dicta illum officiis dolore repudiandae ab id beatae.
+                            <a href="" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> </a>
+                        </div>
+                        <div class="contact">
+                        
                         </div>
                     </div>
                 </div>
