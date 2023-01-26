@@ -46,7 +46,7 @@
                     </div>
                     <div class="body">
                         <i class="fas fa-mobile-alt" style="padding: 10px;"></i> &nbsp; +94 711758851 <br>
-                        <i class="fas fa-mail-bulk"></i> &nbsp; jehankandy@gmail.com <br>
+                        <i class="fas fa-mail-bulk" style="font-size: 10px;"></i> &nbsp; jehankandy@gmail.com <br>
                         <i class="fas fa-map-marked-alt" style="padding: 10px;"></i> &nbsp; Kandy, Sri Lanka. <br>
 
                         <div class="follow">
