@@ -9,7 +9,6 @@
     https://drive.google.com/uc?export=download&id=1kXjq5Oik5YSPafbIFd98reqEM-6Os1t_
 */
 
-
 *{
     margin: 0;
     font-family: 'Source Sans Pro', sans-serif;
@@ -417,23 +416,39 @@
 .titem2:hover .team-text{
     color: rgb(221, 20, 221);
 }
-.titem2 .team-text{
+.titem2 .team-text a, .titem1 .team-text a, .titem3 .team-text a{
     padding: 15px;
     color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.titem2 .team-text, .titem1 .team-text, .titem3 .team-text{
+    padding-top: 50px;
+    text-align: left;
+    padding-left: 50px;
+    
 }
 .titem1 .title, .titem2 .title, .titem3 .title{
     text-align: center;
     color:white;
     text-shadow: none;
 }
-.titem2 .body{
+.titem2 .body, .titem1 .body, .titem3 .body{
     text-align: center;
 }
+
 .team-img{
     border-radius: 100%;
     width: 200px;
     height: 200px;
     border: 2px solid white;
+}
+.roll{
+    color: white;
+    margin-top: 50px;
+}
+.roll .name{
+    font-size: 40px;
 }
 /* 
     ***************************************************************************************
