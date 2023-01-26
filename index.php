@@ -113,7 +113,8 @@
                     <div class="body">
                         <img src="images/1.jpeg" alt="founder" class="team-img">
                         <div class="team-text">
-                            <a href="" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> </a>
+                            <a href="https://github.com/JehanKandy" target="_blank"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;github/JehanKandy</a><br>
+                            <a href="https://www.linkedin.com/in/jehan-kandy-23a3a4223/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i>&nbsp;linkediin/JehanKandy</a>
                         </div>
                         <div class="contact">
                         
