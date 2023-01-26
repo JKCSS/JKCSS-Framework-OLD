@@ -103,7 +103,7 @@
                         Co-Founder
                     </div>
                     <div class="body">
-                        <img src="images/1.jpeg" alt="founder" class="team-img">
+                        <img src="https://avatars.githubusercontent.com/u/89431184?v=4" alt="founder" class="team-img">
                         <div class="team-text">
                             <a href="https://github.com/JehanKandy" target="_blank"><i class="fa fa-github" aria-hidden="true" style="padding-bottom: 20px;"></i>&nbsp;github/JehanKandy</a><br>
                             <a href="https://www.linkedin.com/in/jehan-kandy-23a3a4223/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true" style="padding-bottom: 20px;"></i>&nbsp;linkedin/JehanKandy</a><br>
@@ -122,7 +122,7 @@
                         Founder
                     </div>
                     <div class="body">
-                        <img src="images/1.jpeg" alt="founder" class="team-img">
+                        <img src="https://avatars.githubusercontent.com/u/89431184?v=4" alt="founder" class="team-img">
                         <div class="team-text">
                             <a href="https://github.com/JehanKandy" target="_blank"><i class="fa fa-github" aria-hidden="true" style="padding-bottom: 20px;"></i>&nbsp;github/JehanKandy</a><br>
                             <a href="https://www.linkedin.com/in/jehan-kandy-23a3a4223/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true" style="padding-bottom: 20px;"></i>&nbsp;linkedin/JehanKandy</a><br>
@@ -141,7 +141,7 @@
                         Co-Founder
                     </div>
                     <div class="body">
-                        <img src="images/1.jpeg" alt="founder" class="team-img">
+                        <img src="https://avatars.githubusercontent.com/u/89431184?v=4" alt="founder" class="team-img">
                         <div class="team-text">
                             <a href="https://github.com/JehanKandy" target="_blank"><i class="fa fa-github" aria-hidden="true" style="padding-bottom: 20px;"></i>&nbsp;github/JehanKandy</a><br>
                             <a href="https://www.linkedin.com/in/jehan-kandy-23a3a4223/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true" style="padding-bottom: 20px;"></i>&nbsp;linkedin/JehanKandy</a><br>
