@@ -456,6 +456,18 @@
     padding-bottom: 20px;
     border-top: 1px solid rgb(37, 204, 112);
 }
+.get-content{
+    padding: 80px 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: rgb(19, 19, 39);
+}
+.get-content .get-ses1 .title{
+    font-size: 50px;
+    color: white;
+}
+.get-content .get-ses1 .body{
+    color: white;
+}
 /* 
     ***************************************************************************************
 
