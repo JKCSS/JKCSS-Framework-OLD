@@ -23,9 +23,9 @@
         <div class="body">
             <div class="item-grid">
                 <div class="iitem1">
-                    <div class="title">JKCSS Buttons</div>
+                    <div class="title">JKCSS Get Started</div>
                     <div class="body">
-                        <a href=""><button class="item-pbtn">Buttons</button></a>
+                        <a href=""><button class="item-pbtn">Get Started</button></a>
                     </div>
                 </div>
                 <div class="iitem2">
@@ -35,39 +35,39 @@
                     </div>
                 </div>
                 <div class="iitem3">
-                    <div class="title">JKCSS Buttons</div>
+                    <div class="title">JKCSS Texts</div>
                     <div class="body">
-                        <a href=""><button class="item-pbtn">Buttons</button></a>
+                        <a href=""><button class="item-pbtn">Texts</button></a>
                     </div>
                 </div>
                 <div class="iitem4">
-                    <div class="title">JKCSS Buttons</div>
+                    <div class="title">JKCSS Tables</div>
                     <div class="body">
-                        <a href=""><button class="item-pbtn">Buttons</button></a>
+                        <a href=""><button class="item-pbtn">Tables</button></a>
                     </div>
                 </div>
                 <div class="iitem5">
-                    <div class="title">JKCSS Buttons</div>
+                    <div class="title">JKCSS Cards</div>
                     <div class="body">
-                        <a href=""><button class="item-pbtn">Buttons</button></a>
+                        <a href=""><button class="item-pbtn">Cards</button></a>
                     </div>
                 </div>
                 <div class="iitem6">
-                    <div class="title">JKCSS Buttons</div>
+                    <div class="title">JKCSS Images</div>
                     <div class="body">
-                        <a href=""><button class="item-pbtn">Buttons</button></a>
+                        <a href=""><button class="item-pbtn">Images</button></a>
                     </div>
                 </div>
                 <div class="iitem7">
-                    <div class="title">JKCSS Buttons</div>
+                    <div class="title">JKCSS Inputs</div>
                     <div class="body">
-                        <a href=""><button class="item-pbtn">Buttons</button></a>
+                        <a href=""><button class="item-pbtn">Inputs</button></a>
                     </div>
                 </div>
                 <div class="iitem8">
-                    <div class="title">JKCSS Buttons</div>
+                    <div class="title">JKCSS Examples</div>
                     <div class="body">
-                        <a href=""><button class="item-pbtn">Buttons</button></a>
+                        <a href=""><button class="item-pbtn">Examples</button></a>
                     </div>
                 </div>
             </div>
