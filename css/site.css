@@ -537,13 +537,19 @@
         display: grid;
         width: 100%;
         height: auto;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: repeat(2, 1fr);
         grid-auto-rows: minmax(600px, auto);
         grid-gap: 3rem;
-        grid-template-areas: "a b c";
+        grid-template-areas: "b b" "a c";
         padding: 45 45 45 45;
         margin-top: 20px;
         margin-left: -50px;
+    }
+    .titem2 .team-text a, .titem1 .team-text a, .titem3 .team-text a{
+        padding: 15px;
+        color: white;
+        text-decoration: none;
+        font-size: 15px;
     }
 }
 
@@ -590,6 +596,18 @@
         padding: 45 45 45 45;
         margin-top: 20px;
         margin-bottom: 5px;
+        margin-left: -50px;
+    }
+    .team-grid{
+        display: grid;
+        width: 100%;
+        height: auto;
+        grid-template-columns: repeat(1, 1fr);
+        grid-auto-rows: minmax(600px, auto);
+        grid-gap: 3rem;
+        grid-template-areas: "b" "c" "a";
+        padding: 45 45 45 45;
+        margin-top: 20px;
         margin-left: -50px;
     }
 }
