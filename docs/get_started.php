@@ -3,16 +3,18 @@
 <?php include("../layouts/nav_main.php"); ?>
 <?php include("../layouts/header.php"); ?>
 
-<section class="get-ses1">
-    <div class="box-container">
-        <div class="title">
-            Introduction
+<div class="get-content">
+    <section class="get-ses1">
+        <div class="box-container">
+            <div class="title">
+                Introduction
+            </div>
+            <div class="body">
+                JKCSS
+            </div>
         </div>
-        <div class="body">
-
-        </div>
-    </div>
-</section>
+    </section>
+</div>
 
 <?php include("../layouts/page_footer.php"); ?>
 <script src="../js/script.js"></script>
